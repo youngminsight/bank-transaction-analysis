@@ -46,10 +46,10 @@ The project highlights transaction patterns, system performance issues, and risk
 ## Dashboards
 
 ### Transaction Dashboard 1
-![Transaction Dashboard 1](images/transaction-dashboard1.png)
+![Transaction Dashboard 1](image/transaction-dashboard1.png)
 
 ### Transaction Dashboard 2
-![Transaction Dashboard 2](images/transaction-dashboard2.png)
+![Transaction Dashboard 2](image/transaction-dashboard2.png)
 
 ### Transaction Dashboard 3
-![Transaction Dashboard 3](images/transaction-dashboard3.png)
+![Transaction Dashboard 3](image/transaction-dashboard3.png)
